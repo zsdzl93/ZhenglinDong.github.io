@@ -1828,7 +1828,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #409a5c;
+  background: #69ecda;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2999,5 +2999,4 @@ pre .javascript .function {
 body {
   background: url("/images/background-email-pattern.png");
   background-attachment: fixed;
-  background-position: 50% 50%;
 }
